@@ -1,7 +1,26 @@
-# TWISHA
-Twisha, or The Women In Self-Health Awareness, is a project by GramSheel Foundation. The scope of Project Twisha include women’s health issues (direct objective), child health issues (parallel objective), and domestic health issues (indirect objective targeting alcoholism, sanitation, water etc.).
+# ClinAI
 
-Twisha produces kits for assessing self-health, related books, and simple health packets (containing PCC etc.). The media initiatives under Twisha produce blogs, articles, and tweets. Along with this Twisha trains volunteers as self-health awareness enablers. Twisha also produces videos covering expert advice and panel discussions or events related to women’s health issues.
+## Introduction
+**ClinAI** is dedicated to advancing clinical conversational AI for the AyeATROS Virtual Hospital. Our primary aim is to streamline medical history gathering and enhance patient-provider interactions in healthcare settings.
 
-Twisha’s activities include and are based on strong research and development (R&D). This primarily concerns medical research on women’s health issues and medical devices / telemedicine for women.
+## Invitation for Collaboration
+We invite researchers, healthcare professionals, and technology experts to collaborate with us in enhancing conversational AI applications in healthcare. Your expertise is crucial for improving the functionality and impact of ClinAI.
+
+### Collaboration Opportunities:
+- Development of AI algorithms tailored for clinical applications.
+- Research on user experience and patient engagement strategies.
+- Studies on the implementation of conversational AI in healthcare environments.
+- Evaluation of AI effectiveness in clinical data collection and management.
+
+For collaboration inquiries, please contact us at [insert contact email] or engage in our discussions at [insert forum URL].
+
+## Disclaimers
+The information provided is for academic purposes only and should not be interpreted as medical advice. Research findings are subject to change as our work evolves.
+
+## Copyright
+Copyright © 2001-2024 AyeAI and AyeATROS are registered trademarks. All rights reserved. This work is published as part of our commitment to open-source and research initiatives in healthcare technology.
+
+## Engagement
+Stay updated on our research by subscribing to our mailing list. We look forward to your contributions to advancing healthcare through conversational AI.
+
 
