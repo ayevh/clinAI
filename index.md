@@ -1,5 +1,5 @@
-# clinAI - A Changers' Quest™ for Clinical AI
-
+# clinAI - A Changers' Quest for Clinical AI
+##### ™
 ## Introduction
 **ClinAI** is dedicated to advancing clinical conversational AI for the AyeATROS Virtual Hospital. Our primary aim is to streamline medical history gathering and enhance patient-provider interactions in healthcare settings.
 
