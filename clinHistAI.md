@@ -34,12 +34,13 @@ We invite researchers, healthcare professionals, and technologists to collaborat
 This work is intended for academic purposes only and does not constitute medical advice. The findings and opinions presented herein are based on preliminary research and discussions. 
 
 ## Citation
-AyeAI ∴ AyeAM. (2001-2024). *Conversational AI for Medical History Gathering Towards Universal Health Coverage (UHC)*. Author: Abhishek Choudhary. Available at: [https://bit.ly/achoudhary](https://bit.ly/achoudhary).
+AyeVH by AyeAI ∴ AyeAM. (2001-2024). *clinHistAAI :: Conversational AI for Medical History Gathering Towards Universal Health Coverage (UHC)*. as hosted at URL: https://clinAI.chaanger.quest/clinHistAI Author: Abhishek Choudhary. Contact: [https://bit.ly/achoudhary](https://bit.ly/achoudhary).
 
 ## Copyright
 Copyright © 2001-2024 AyeAI and AyeAM are registered trademarks. This work is published as an academic initiative.
+™ clinHistAI and Channgers’ Quest are trademarks or business marks of Abhishek Choudhary
 
 ---
 
 ## Continuing the Conversation
-To engage in further discussions regarding this research or to contribute your ideas, please contact us at [insert contact email] or visit our project page at [insert project URL]. We welcome your feedback and collaboration as we continue to refine our approach to using conversational AI in healthcare.
+We welcome your feedback and collaboration as we continue to refine our approach to using conversational AI in healthcare.
