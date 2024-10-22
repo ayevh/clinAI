@@ -1,4 +1,4 @@
-[AI for clinical history](https://chatgpt.com/share/67177af7-46d0-800f-8891-e272e40765ac)
+[AI for clinical history](https://chatgpt.com/share/67177af7-46d0-800f-8891-e272e40765ac) Use this link to oopen the history taking AI currently shared as a conversation on chatGPT. Once the link is open please click on continue conversation.
 
 Please share your feedback and comments as a [GitHub issue](https://github.com/ayevh/clinAI/issues/new?title="Feedback on ClinAI history bot"&body="Please enter your feedback here. We will also be grateful for updates to the prompt.")
 
