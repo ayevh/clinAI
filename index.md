@@ -1,4 +1,4 @@
-# ClinAI
+# clinAI - A Changers' Quest™ for Clinical AI
 
 ## Introduction
 **ClinAI** is dedicated to advancing clinical conversational AI for the AyeATROS Virtual Hospital. Our primary aim is to streamline medical history gathering and enhance patient-provider interactions in healthcare settings.
@@ -23,4 +23,5 @@ Copyright © 2001-2024 AyeAI and AyeATROS are registered trademarks. All rights 
 ## Engagement
 Stay updated on our research by subscribing to our mailing list. We look forward to your contributions to advancing healthcare through conversational AI.
 
-
+-------------
+##### ™ Channgers' Quest is a trademark of Abhishek Choudhary
