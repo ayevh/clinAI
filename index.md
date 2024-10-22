@@ -12,7 +12,7 @@ We invite researchers, healthcare professionals, and technology experts to colla
 - Studies on the implementation of conversational AI in healthcare environments.
 - Evaluation of AI effectiveness in clinical data collection and management.
 
-For collaboration inquiries, please contact us at [insert contact email] or engage in our discussions at [insert forum URL].
+For collaboration inquiries, please contact us through [GitHub](https://github.com/ayevh/clinAI/issues/new?title=Collaboration%20on%20ClinAI&body=Please%20enter%20your%20collaboration%20interests%20here.)].
 
 ## Disclaimers
 The information provided is for academic purposes only and should not be interpreted as medical advice. Research findings are subject to change as our work evolves.
