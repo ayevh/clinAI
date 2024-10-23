@@ -2,7 +2,20 @@
 <a href="https://chatgpt.com/share/67177af7-46d0-800f-8891-e272e40765ac" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007bff; border-radius: 5px; text-decoration: none;">AI for Clinical History</a>
 ### Use this link to open the history taking AI currently shared as a conversation on chatGPT. Once the link is open please click on continue conversation.
 
-Please share your feedback and comments as a [GitHub issue](https://github.com/ayevh/clinAI/issues/new?title="Feedback on ClinAI history bot"&body="Please enter your feedback here. We will also be grateful for updates to the prompt.")
+Please share your feedback and comments as a [GitHub issue](https://github.com/ayevh/clinAI/issues/new?title=Feedback%20on%20ClinAI%20history%20bot&body=Please%20enter%20your%20feedback%20here.%20We%20will%20also%20be%20grateful%20for%20updates%20to%20the%20prompt.)
+
+> ## Scan it!
+> 
+> Scan to complete your registration and clinical history.
+> 
+> ![QR Code](/assets/images/clinHistAI.webp)
+> 
+> <p align="center">
+>     <img src="/assets/images/clinHistAI.webp" alt="QR Code" width="50%" />
+>     <span style="font-size: 40px; display: block;">📲</span>
+> </p>
+> 
+
 
 # Conversational AI for Medical History Gathering Towards Universal Health Coverage (UHC)
 
