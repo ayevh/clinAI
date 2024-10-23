@@ -4,16 +4,15 @@
 
 Please share your feedback and comments as a [GitHub issue](https://github.com/ayevh/clinAI/issues/new?title=Feedback%20on%20ClinAI%20history%20bot&body=Please%20enter%20your%20feedback%20here.%20We%20will%20also%20be%20grateful%20for%20updates%20to%20the%20prompt.)
 
-><p align="center">
-> 
-> # Scan it!
-> 
-> ## Scan to complete your registration and clinical history.
-> 
->     <img src="/assets/images/clinHistAI.webp" alt="QR Code" width="50%" span style="font-size: 40px; display: block;">📲</image>
-> 
-> </p>
-> 
+<p align="center">
+ 
+# Scan it!
+## Scan to complete your registration and clinical history.
+ 
+<img src="/assets/images/clinHistAI.webp" alt="QR Code" width="50%" span style="font-size: 40px; display: block;">📲</img>
+
+</p>
+ 
 
 
 # Conversational AI for Medical History Gathering Towards Universal Health Coverage (UHC)
