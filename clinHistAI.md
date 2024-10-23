@@ -8,8 +8,6 @@ Please share your feedback and comments as a [GitHub issue](https://github.com/a
 > 
 > Scan to complete your registration and clinical history.
 > 
-> ![QR Code](/assets/images/clinHistAI.webp)
-> 
 > <p align="center">
 >     <img src="/assets/images/clinHistAI.webp" alt="QR Code" width="50%" />
 >     <span style="font-size: 40px; display: block;">📲</span>
